@@ -12,11 +12,11 @@ $ npm run dev
 $ npm start
 
 
-Urls:                                                                       Method
-http://localhost:4000/friendservice/friend-request/<user_id>                 PUT
-http://localhost:4000/friendservice/approve-friend-request/<user_id>         PUT
-http://localhost:4000/friendservice/reject-friend-request/<user_id>          PUT
-http://localhost:4000/friendservice/get-recieved-friend-requests             GET
-http://localhost:4000/friendservice/get-sent-friend-requests                 GET
-http://localhost:4000/friendservice/get-all-friends                          GET
-http://localhost:4000/friendservice/remove-friend                            PUT
+Urls:                                                                       
+http://localhost:4000/friendservice/friend-request/<user_id>                 
+http://localhost:4000/friendservice/approve-friend-request/<user_id>        
+http://localhost:4000/friendservice/reject-friend-request/<user_id>         
+http://localhost:4000/friendservice/get-recieved-friend-requests            
+http://localhost:4000/friendservice/get-sent-friend-requests                 
+http://localhost:4000/friendservice/get-all-friends                         
+http://localhost:4000/friendservice/remove-friend                           
